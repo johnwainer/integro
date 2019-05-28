@@ -1,6 +1,6 @@
 # integro
 
-###Configuración
+##Configuración
 
 -Descargar todos los archivos (incluyendo el .htaccess)
 
@@ -10,11 +10,11 @@
 
 -Para cambiar el usuario y el password de la BD, se debe ir a "includes/admin/connect.php"
 
-###Acceso
+##Acceso
 
 adm1n / A12345
 
-###Consideraciones
+##Consideraciones
 
 -Hice todo el sistema sin utilizar framework.
 
